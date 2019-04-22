@@ -1,0 +1,170 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "Arad",
+      "actions": [
+        { "city": 2, "cost": 75 },
+        { "city": 3, "cost": 140 },
+        { "city": 4, "cost": 118 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Zerind",
+      "actions": [
+        { "city": 1, "cost": 75 },
+        { "city": 5, "cost": 71 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sibiu",
+      "actions": [
+        { "city": 1, "cost": 140 },
+        { "city": 5, "cost": 151 },
+        { "city": 6, "cost": 99 },
+        { "city": 7, "cost": 80 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Timisoara",
+      "actions": [
+        { "city": 1, "cost": 118 },
+        { "city": 8, "cost": 111 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Oradea",
+      "actions": [
+        { "city": 2, "cost": 71 },
+        { "city": 3, "cost": 151 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Fagaras",
+      "actions": [
+        { "city": 3, "cost": 99 },
+        { "city": 9, "cost": 211 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Rimnicu Vilcea",
+      "actions": [
+        { "city": 3, "cost": 80 },
+        { "city": 10, "cost": 97 },
+        { "city": 11, "cost": 146 }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Lugoj",
+      "actions": [
+        { "city": 4, "cost": 111 },
+        { "city": 12, "cost": 70 }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Bucharest",
+      "actions": [
+        { "city": 6, "cost": 211 },
+        { "city": 10, "cost": 101 },
+        { "city": 13, "cost": 90 },
+        { "city": 14, "cost": 85 }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Pitesti",
+      "actions": [
+        { "city": 7, "cost": 97 },
+        { "city": 9, "cost": 101 },
+        { "city": 11, "cost": 138 }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Craiova",
+      "actions": [
+        { "city": 7, "cost": 146 },
+        { "city": 10, "cost": 138 },
+        { "city": 15, "cost": 120 }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Mehadia",
+      "actions": [
+        { "city": 8, "cost": 70 },
+        { "city": 15, "cost": 75 }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Giurgiu",
+      "actions": [
+        { "city": 9, "cost": 90 }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Urziceni",
+      "actions": [
+        { "city": 9, "cost": 85 },
+        { "city": 16, "cost": 142 },
+        { "city": 17, "cost": 98 }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Drobeta",
+      "actions": [
+        { "city": 11, "cost": 120 },
+        { "city": 12, "cost": 75 }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Vaslui",
+      "actions": [
+        { "city": 14, "cost": 142 },
+        { "city": 18, "cost": 92 }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Hirsova",
+      "actions": [
+        { "city": 14, "cost": 98 },
+        { "city": 19, "cost": 86 }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Iasi",
+      "actions": [
+        { "city": 16, "cost": 92 },
+        { "city": 20, "cost": 87 }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Eforie",
+      "actions": [
+        { "city": 17, "cost": 86 }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Neamt",
+      "actions": [
+        { "city": 18, "cost": 87 }
+      ]
+    }
+  ]
+}

@@ -32,7 +32,7 @@
       "name": "Timisoara",
       "actions": [
         { "city": 1, "cost": 118 },
-        { "city": 8, "cost": 111 }
+        { "city": 20, "cost": 111 }
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Fagaras",
       "actions": [
         { "city": 3, "cost": 99 },
-        { "city": 9, "cost": 211 }
+        { "city": 8, "cost": 211 }
       ]
     },
     {
@@ -56,114 +56,114 @@
       "name": "Rimnicu Vilcea",
       "actions": [
         { "city": 3, "cost": 80 },
-        { "city": 10, "cost": 97 },
-        { "city": 11, "cost": 146 }
+        { "city": 11, "cost": 97 },
+        { "city": 17, "cost": 146 }
       ]
     },
     {
       "id": 8,
-      "name": "Lugoj",
+      "name": "Bucharest",
       "actions": [
-        { "city": 4, "cost": 111 },
-        { "city": 12, "cost": 70 }
+        { "city": 6, "cost": 211 },
+        { "city": 9, "cost": 85 },
+        { "city": 10, "cost": 90 },
+        { "city": 11, "cost": 101 }
       ]
     },
     {
       "id": 9,
-      "name": "Bucharest",
+      "name": "Urziceni",
       "actions": [
-        { "city": 6, "cost": 211 },
-        { "city": 10, "cost": 101 },
-        { "city": 13, "cost": 90 },
-        { "city": 14, "cost": 85 }
+        { "city": 8, "cost": 85 },
+        { "city": 12, "cost": 142 },
+        { "city": 13, "cost": 98 }
       ]
     },
     {
       "id": 10,
-      "name": "Pitesti",
+      "name": "Giurgiu",
       "actions": [
-        { "city": 7, "cost": 97 },
-        { "city": 9, "cost": 101 },
-        { "city": 11, "cost": 138 }
+        { "city": 8, "cost": 90 }
       ]
     },
     {
       "id": 11,
-      "name": "Craiova",
+      "name": "Pitesti",
       "actions": [
-        { "city": 7, "cost": 146 },
-        { "city": 10, "cost": 138 },
-        { "city": 15, "cost": 120 }
+        { "city": 8, "cost": 101 },
+        { "city": 17, "cost": 138 },
+        { "city": 7, "cost": 97 }
       ]
     },
     {
       "id": 12,
-      "name": "Mehadia",
+      "name": "Vaslui",
       "actions": [
-        { "city": 8, "cost": 70 },
-        { "city": 15, "cost": 75 }
+        { "city": 9, "cost": 142 },
+        { "city": 14, "cost": 92 }
       ]
     },
     {
       "id": 13,
-      "name": "Giurgiu",
+      "name": "Hirsova",
       "actions": [
-        { "city": 9, "cost": 90 }
+        { "city": 9, "cost": 98 },
+        { "city": 16, "cost": 86 }
       ]
     },
     {
       "id": 14,
-      "name": "Urziceni",
+      "name": "Iasi",
       "actions": [
-        { "city": 9, "cost": 85 },
-        { "city": 16, "cost": 142 },
-        { "city": 17, "cost": 98 }
+        { "city": 12, "cost": 92 },
+        { "city": 15, "cost": 87 }
       ]
     },
     {
       "id": 15,
-      "name": "Drobeta",
+      "name": "Neamt",
       "actions": [
-        { "city": 11, "cost": 120 },
-        { "city": 12, "cost": 75 }
+        { "city": 14, "cost": 87 }
       ]
     },
     {
       "id": 16,
-      "name": "Vaslui",
+      "name": "Eforie",
       "actions": [
-        { "city": 14, "cost": 142 },
-        { "city": 18, "cost": 92 }
+        { "city": 13, "cost": 86 }
       ]
     },
     {
       "id": 17,
-      "name": "Hirsova",
+      "name": "Craiova",
       "actions": [
-        { "city": 14, "cost": 98 },
-        { "city": 19, "cost": 86 }
+        { "city": 11, "cost": 138 },
+        { "city": 18, "cost": 120 },
+        { "city": 7, "cost": 146 }
       ]
     },
     {
       "id": 18,
-      "name": "Iasi",
+      "name": "Drobeta",
       "actions": [
-        { "city": 16, "cost": 92 },
-        { "city": 20, "cost": 87 }
+        { "city": 17, "cost": 120 },
+        { "city": 19, "cost": 75 }
       ]
     },
     {
       "id": 19,
-      "name": "Eforie",
+      "name": "Mehadia",
       "actions": [
-        { "city": 17, "cost": 86 }
+        { "city": 18, "cost": 75 },
+        { "city": 20, "cost": 70 }
       ]
     },
     {
       "id": 20,
-      "name": "Neamt",
+      "name": "Lugoj",
       "actions": [
-        { "city": 18, "cost": 87 }
+        { "city": 4, "cost": 111 },
+        { "city": 19, "cost": 70 }
       ]
     }
   ]
